@@ -1,7 +1,12 @@
-import './App.css'
+import Hero from "./sections/Hero/Hero";
 
 function App() {
-  return <>App</>
+  return (
+    <>
+      <Hero />
+      <div>I like Turtles</div>
+    </>
+  );
 }
 
-export default App
+export default App;
