@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <Hero />
-      <div>I like Turtles</div>
+      <div></div>
     </>
   );
 }
